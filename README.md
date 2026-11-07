@@ -232,7 +232,7 @@ A log file named `weather_pipeline.log` is generated to record pipeline activiti
 
 **Shaik Asmatha**
 
-Aspiring Data Analyst | Data Science Graduate
+Aspiring Data Engineer | Data Science Graduate
 
 - **GitHub:** https://github.com/As-01-Asma
 - **Portfolio:** https://celadon-tartufo-fc56fc.netlify.app
